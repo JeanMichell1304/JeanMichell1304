@@ -1,8 +1,7 @@
 Olá! Eu sou o Jean Michell Ritter dos Santos.👋
 ##
 - 🔭 Trabalhando em meus Estudos para ser um futuro Dev. Front-End
-- 🌱 Estudando HTML, CSS, JS, REACT.
-- 😄 Pronouns: Ele/Dele
+- 🌱 Estudando HTML, CSS, JS.
 
 <div align="center">
   <a href="https://github.com/JeanMichell1304">
